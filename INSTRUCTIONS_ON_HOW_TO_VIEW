@@ -1,0 +1,29 @@
+**********************
+HOW TO VIEW PROJECT
+**********************
+
+**************************************
+HOW TO IMPORT WORDPRESS AND SQL FILES
+*************************************
+1. Download ZIP file.
+2. Download wamp64
+3. Extract the files in apps.rar to apps folder 
+4. Create a folder called wordpress in www and extract files in wordpress.rar in Wordpress
+4. Go to www/wordpress/ directory and extract the files in wp-content.rar to the wp-content folder.
+5. Run wampmanager.exe
+
+**********************
+HOW TO ACCESS PROJECT
+**********************
+On the browser, go to localhost/wordpress/. Login as admin2, password as admin.
+To access the SQL database, go to localhost/phpmyadmin/, login as admin, password as root
+
+
+**********************
+ALTERNATIVE OPTIONS
+**********************
+
+Most of the source code is located in wp-content and specificcy in the chosen theme: seos-video.
+The the notable files are either in the folders itself and connect.php.
+
+A SQL file called test.sql is also attached if an existing wordpress is installed and you would just like to import the specific files.
